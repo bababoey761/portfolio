@@ -81,7 +81,7 @@ h1 {
 
 .frase-apresentacao {
     font-size: 1.2em;
-    color: #666;
+    color: #a1a0a0;
 }
 
 /* Seções principais */
@@ -95,7 +95,7 @@ section {
 }
 
 .secao-sobre {
-    background-color: #1f1c1c;
+    background-color: #1f1c1c59;
     border: 1px solid #c4c4c4;
     border-radius: 8px;
 }
@@ -141,7 +141,7 @@ p {
     padding: 20px;
     border: 1px solid #bdb6b6;
     border-radius: 8px;
-    background-color: #242121;
+    background-color: #24212148;
     min-height: 220px;
 }
 
