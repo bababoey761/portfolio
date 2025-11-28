@@ -17,7 +17,7 @@ Instale o arquivo `download.rar` para uma instalação mais rapida dos arquivos 
 Extraia os arquivos na pasta desejada
 
 ### passo: 3
-Abra o `index.html` no navegador ou user o seguinte comando para testar rápido via terminal (PowerShell):
+Abra o `index.html` no navegador ou use o seguinte comando para testar rápido via terminal (PowerShell):
 
 ```powershell
 # abrir com o navegador padrão (Windows)
