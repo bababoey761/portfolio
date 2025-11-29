@@ -20,8 +20,8 @@ body {
 }
 
 @keyframes blur-shift {
-    0% { filter: blur(40px) hue-rotate(0deg); }
-    100% { filter: blur(40px) hue-rotate(360deg); }
+    0% { filter: hue-rotate(0deg); }
+    100% { filter: hue-rotate(360deg); }
 }
 
 body::before {
@@ -59,7 +59,7 @@ header {
     object-fit: cover;
     border-radius: 50%;
     flex: 0 0 auto;
-    border: 1px solid #bdb6b6;
+    border: 2px solid #bdb6b6;
     box-shadow: 0 6px 6px rgba(228, 224, 224, 0.35);
 }
 
