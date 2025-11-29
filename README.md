@@ -12,6 +12,8 @@ Site estático com o portfólio pessoal.
 
 ### passo: 1
 Instale o arquivo `download.rar` para uma instalação mais rapida dos arquivos necessarios
+<img width="556" height="482" alt="image" src="https://github.com/user-attachments/assets/2bc72b94-4aae-410e-b9aa-719719eb25d9" />
+
 
 ### passo: 2
 Extraia os arquivos na pasta desejada
